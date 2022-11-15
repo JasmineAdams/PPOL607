@@ -1,0 +1,842 @@
+"Gender","Birth_Year","Education_Level","Ethnic_Group","Mother_Immigrant","Father_Immigrant","Newspaper","Family_Savings","Class_ID","Vote_Labour"
+"Female",1942,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,"Working Class",0
+"Female",1982,NA,"New Zealander first, ethnic group second","Immigrant","Not an immigrant","Less than weekly","Just get by","Working Class",0
+"Female",NA,NA,"Pakeha","Not an immigrant",NA,"Daily","Save money","Lower Middle Class",0
+"Female",1989,"Some university, no degree","European","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",1
+NA,1984,"Some university, no degree","European","Not an immigrant","Not an immigrant","Weekly","Just get by",NA,0
+NA,1950,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by",NA,0
+"Male",1986,"Some university, no degree","New Zealander first, ethnic group second","Immigrant",NA,"Daily","Just get by","Working Class",0
+"Male",1955,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Female",1957,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by",NA,0
+"Female",1976,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Male",NA,"University, with degree","New Zealander first, ethnic group second",NA,"Not an immigrant","Daily",NA,"Upper middle Class",1
+"Female",1974,"University, with degree","New Zealander first, ethnic group second",NA,"Not an immigrant","Weekly","Save money","Upper middle Class",0
+"Female",1935,"Secondary school",NA,NA,"Not an immigrant","Daily",NA,NA,0
+"Male",1937,"Secondary school","European",NA,"Not an immigrant","Daily","Just get by","Working Class",1
+"Male",1993,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Class",0
+"Female",1951,"University, with degree","New Zealander first, ethnic group second",NA,NA,"Daily","Save money",NA,1
+"Female",1949,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Lower Middle Class",0
+"Female",1968,"Secondary school","European","Not an immigrant","Not an immigrant","Less than weekly",NA,"Upper middle Class",0
+NA,1976,"Secondary school","Pakeha","Not an immigrant",NA,NA,"Just get by","Lower Class",0
+NA,1981,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Upper middle Class",0
+"Female",1941,"University, with degree","European","Not an immigrant","Not an immigrant","Weekly","Spent savings and borrowed money","Upper middle Class",1
+"Male",1988,NA,"Maori","Not an immigrant","Not an immigrant","Weekly","Just get by","Lower Class",0
+"Female",1984,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+NA,1936,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1962,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",0
+"Female",1960,"University, with degree",NA,"Not an immigrant","Not an immigrant","Daily","Just get by","Upper middle Class",0
+"Female",NA,"Secondary school","European","Immigrant","Not an immigrant","Daily","Just get by",NA,0
+"Male",1962,"University, with degree","European","Immigrant","Not an immigrant","Weekly",NA,"Lower Middle Class",0
+"Female",1956,"Some university, no degree","New Zealander first, ethnic group second","Immigrant",NA,NA,"Save money","Lower Middle Class",0
+"Male",1938,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Lower Middle Class",0
+"Male",1941,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",1
+"Male",1936,"Secondary school","Asian","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Male",NA,"University, with degree","European","Not an immigrant","Not an immigrant",NA,"Save money","Upper middle Class",1
+"Female",1959,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Not an immigrant","Daily","Just get by","Working Class",1
+"Male",1930,"Secondary school",NA,"Immigrant","Immigrant",NA,"Save money","Working Class",1
+"Female",1966,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",NA,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Working Class",NA
+"Female",1941,"Some university, no degree",NA,"Not an immigrant","Not an immigrant","Daily",NA,"Upper middle Class",0
+"Female",1952,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Upper middle Class",0
+"Female",1959,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Female",1955,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Weekly","Save money","Upper middle Class",0
+"Female",1932,NA,NA,"Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Working Class",0
+"Female",1966,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Working Class",0
+"Female",1953,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1959,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Working Class",NA
+"Male",1941,"Secondary school","New Zealander first, ethnic group second","Not an immigrant",NA,"Daily","Just get by","Working Class",0
+"Female",NA,"University, with degree","Maori","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Female",1986,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,NA,0
+"Female",1961,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Working Class",0
+"Female",1963,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Less than weekly","Just get by",NA,1
+"Female",1946,"Secondary school","Pakeha",NA,"Not an immigrant","Daily","Spent some savings and borrowed money","Working Class",0
+"Female",NA,"University, with degree","Maori","Not an immigrant","Not an immigrant","Daily","Save money",NA,NA
+"Female",1987,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Working Class",0
+"Male",1968,"Secondary school","European","Not an immigrant","Not an immigrant","Weekly","Just get by","Lower Middle Class",0
+"Male",1964,"Secondary school","Pakeha",NA,NA,"Daily","Save money","Working Class",1
+"Female",1955,"University, with degree","Maori","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Female",NA,"Secondary school","Pakeha","Immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Male",1939,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Just get by","Working Class",0
+NA,1956,"Some university, no degree","Pakeha","Not an immigrant",NA,"Daily","Spent savings and borrowed money","Lower Middle Class",0
+"Female",1985,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Weekly","Just get by","Working Class",0
+NA,1984,"University, with degree","New Zealander first, ethnic group second",NA,"Not an immigrant","Daily","Save money","Upper middle Class",NA
+"Male",NA,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by",NA,0
+"Male",1935,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by",NA,NA
+"Female",1973,"Secondary school","Maori","Not an immigrant","Not an immigrant","Less than weekly","Save money","Working Class",NA
+"Female",1969,"Some university, no degree","Pacific Islander","Immigrant","Immigrant",NA,"Just get by",NA,1
+"Female",1968,"University, with degree","European","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",1957,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+"Female",1965,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent savings and borrowed money","Working Class",0
+"Female",1978,"University, with degree","New Zealander first, ethnic group second","Not an immigrant",NA,"Daily","Save money",NA,0
+NA,NA,NA,"New Zealander first, ethnic group second","Immigrant","Immigrant",NA,NA,NA,0
+NA,1974,NA,"New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Just get by","Working Class",0
+"Female",1959,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1986,"University, with degree",NA,"Not an immigrant","Immigrant","Less than weekly","Save money","Upper middle Class",1
+"Male",1964,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Female",1955,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Save money","Lower Middle Class",0
+"Female",1940,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Save money","Upper middle Class",NA
+"Female",1974,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Save money","Working Class",0
+"Male",1925,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",1
+"Female",1980,"Some university, no degree","Pakeha",NA,"Immigrant","Less than weekly","Save money","Working Class",0
+"Male",1989,"Secondary school",NA,"Not an immigrant","Not an immigrant","Less than weekly",NA,"Lower Class",0
+"Female",1968,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Female",1961,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily","Just get by","Working Class",1
+"Female",1937,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,NA,1
+"Male",1974,"Some university, no degree","European","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+"Male",1968,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Working Class",0
+"Female",1944,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily",NA,"Lower Middle Class",0
+"Male",1989,"University, with degree","European","Not an immigrant","Immigrant","Weekly","Save money","Upper middle Class",0
+"Female",1950,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly",NA,NA,0
+"Male",1938,"Some university, no degree","Pakeha","Not an immigrant","Immigrant",NA,"Just get by","Lower Middle Class",0
+"Female",1957,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Less than weekly",NA,"Lower Middle Class",0
+NA,1956,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",1934,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by",NA,NA
+"Male",1945,"Secondary school","Pakeha","Not an immigrant",NA,"Daily","Spent some savings and borrowed money","Upper middle Class",1
+"Female",1934,"Secondary school","European",NA,NA,"Less than weekly","Just get by","Upper middle Class",0
+"Male",1962,"University, with degree","Pakeha","Not an immigrant","Not an immigrant",NA,"Save money","Upper middle Class",0
+NA,1949,"Secondary school","New Zealander first, ethnic group second","Immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Upper middle Class",0
+"Female",1973,NA,"New Zealander first, ethnic group second","Immigrant","Immigrant","Less than weekly",NA,"Upper middle Class",0
+"Male",1974,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Just get by","Lower Middle Class",0
+"Male",1976,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",NA
+"Female",1957,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+NA,1985,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent savings and borrowed money","Upper middle Class",0
+"Female",1947,"Some university, no degree",NA,"Not an immigrant",NA,"Daily","Just get by",NA,1
+"Female",1973,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Female",1988,"Secondary school",NA,NA,"Not an immigrant","Daily","Save money","Working Class",0
+"Female",1963,"Some university, no degree",NA,NA,"Not an immigrant","Daily","Save money","Upper middle Class",NA
+"Male",1977,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Save money","Lower Middle Class",0
+"Male",1973,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Not an immigrant","Weekly","Just get by","Working Class",0
+"Female",1921,NA,"European","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Female",1968,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Spent savings and borrowed money","Lower Middle Class",0
+"Male",1991,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money",NA,0
+"Female",1950,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Upper middle Class",0
+"Male",1932,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Female",1935,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily","Save money","Lower Middle Class",0
+"Male",1950,"Secondary school","Maori","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Female",1977,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Save money","Upper middle Class",1
+"Female",1971,NA,"Pakeha","Not an immigrant","Not an immigrant","Weekly","Just get by","Lower Middle Class",1
+"Male",1961,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Save money","Working Class",0
+"Male",1955,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",0
+"Female",1968,"Some university, no degree",NA,"Not an immigrant",NA,"Less than weekly","Spent some savings and borrowed money","Lower Middle Class",0
+"Female",1946,"Secondary school","European","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Lower Middle Class",0
+"Female",1951,"University, with degree","European","Not an immigrant",NA,"Daily","Save money","Upper middle Class",0
+"Female",1938,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",1
+"Female",1971,"University, with degree",NA,NA,NA,"Daily","Just get by","Upper middle Class",1
+"Female",1972,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Weekly",NA,NA,0
+"Female",1981,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Lower Class",0
+"Female",1955,"Some university, no degree","European","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money",NA,1
+"Female",NA,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Female",NA,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Save money",NA,0
+"Female",1975,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by",NA,0
+"Female",1947,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Lower Middle Class",0
+NA,1980,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Just get by",NA,0
+"Female",1946,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Female",1980,"University, with degree","European","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",0
+"Female",1940,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",1
+"Female",1959,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly",NA,NA,0
+"Female",1957,"University, with degree","European","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",NA
+"Male",1952,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant",NA,NA,"Working Class",NA
+"Female",1930,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Working Class",1
+"Female",1947,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by",NA,1
+"Female",1954,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Male",NA,"Some university, no degree","New Zealander first, ethnic group second","Immigrant",NA,"Weekly","Spent some savings and borrowed money","Working Class",0
+"Female",1955,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Working Class",0
+"Male",NA,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Male",1945,"Secondary school",NA,"Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",1959,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Save money","Upper middle Class",0
+"Male",1974,"University, with degree","New Zealander first, ethnic group second","Immigrant",NA,"Weekly",NA,"Upper middle Class",NA
+NA,1951,"Secondary school","European",NA,"Not an immigrant","Daily","Just get by","Lower Middle Class",1
+"Female",1983,"University, with degree","European","Immigrant","Immigrant","Daily","Save money","Upper middle Class",NA
+"Female",1980,"University, with degree","European","Not an immigrant","Not an immigrant","Less than weekly",NA,"Upper middle Class",NA
+"Female",1940,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+NA,1973,"University, with degree","Pakeha",NA,"Not an immigrant","Less than weekly","Save money","Lower Middle Class",0
+"Female",1931,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Upper middle Class",0
+"Male",1955,NA,"Pakeha","Not an immigrant","Not an immigrant",NA,"Save money","Lower Middle Class",0
+"Female",1945,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by",NA,NA
+"Male",1927,"Secondary school",NA,"Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Female",1978,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Less than weekly","Save money","Working Class",0
+"Male",1935,"Secondary school","New Zealander first, ethnic group second","Immigrant",NA,"Weekly","Just get by","Lower Class",1
+"Male",1970,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",1
+"Female",1992,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Weekly",NA,"Upper middle Class",0
+"Female",1961,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Weekly","Spent savings and borrowed money",NA,0
+"Male",1981,"Secondary school","Maori","Immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+"Male",1932,"Some university, no degree",NA,"Not an immigrant",NA,"Daily","Spent some savings and borrowed money","Upper middle Class",0
+"Female",1966,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Less than weekly","Just get by","Lower Middle Class",1
+"Female",1959,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money",NA,1
+"Male",NA,"University, with degree","New Zealander first, ethnic group second","Not an immigrant",NA,"Daily","Save money","Upper middle Class",0
+"Female",1968,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Spent savings and borrowed money","Lower Middle Class",0
+"Female",1970,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent savings and borrowed money","Upper middle Class",0
+"Male",1949,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Male",1989,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Save money",NA,0
+"Female",1962,"University, with degree","New Zealander first, ethnic group second","Immigrant","Not an immigrant",NA,"Save money","Lower Middle Class",NA
+"Female",1926,NA,"European","Not an immigrant",NA,"Less than weekly","Save money","Lower Middle Class",0
+"Male",1946,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1972,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money",NA,0
+"Female",1933,"Secondary school","Pakeha","Not an immigrant","Immigrant","Daily",NA,NA,0
+"Male",1973,"University, with degree",NA,NA,"Not an immigrant","Less than weekly","Just get by","Lower Middle Class",0
+"Male",NA,NA,"Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Working Class",NA
+"Female",1925,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",1
+"Female",1935,"Secondary school","European","Immigrant",NA,"Daily","Just get by",NA,0
+"Female",NA,NA,"New Zealander first, ethnic group second",NA,NA,"Daily","Just get by","Lower Middle Class",0
+"Female",1984,"Some university, no degree","New Zealander first, ethnic group second",NA,"Not an immigrant","Weekly","Save money","Lower Middle Class",1
+"Female",1982,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Less than weekly",NA,"Upper middle Class",0
+"Female",1972,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Save money","Upper middle Class",0
+"Female",1937,"Secondary school",NA,"Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+"Male",1950,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",1964,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Spent savings and borrowed money","Working Class",0
+"Female",1943,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",NA
+"Female",1958,"University, with degree","New Zealander first, ethnic group second","Not an immigrant",NA,NA,NA,"Lower Middle Class",0
+"Male",1962,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Female",1957,NA,"Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",0
+"Male",NA,"Secondary school","New Zealander first, ethnic group second",NA,"Not an immigrant","Less than weekly","Just get by","Working Class",1
+"Female",1937,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",0
+"Female",1993,NA,"Maori","Immigrant","Immigrant","Daily",NA,"Upper middle Class",0
+"Female",NA,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly",NA,NA,0
+"Female",NA,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Weekly","Just get by",NA,1
+"Female",1973,"Secondary school","European","Not an immigrant","Not an immigrant","Weekly","Save money",NA,0
+"Male",1949,NA,NA,"Not an immigrant","Not an immigrant","Less than weekly","Just get by",NA,NA
+"Female",1966,NA,"European","Immigrant","Immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1976,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Less than weekly","Spent some savings and borrowed money",NA,1
+"Female",1939,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant",NA,"Just get by",NA,0
+"Male",1983,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Weekly","Just get by",NA,0
+"Female",1945,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money",NA,1
+"Male",1960,"Secondary school","New Zealander first, ethnic group second","Not an immigrant",NA,NA,"Just get by","Lower Middle Class",0
+"Male",NA,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Upper middle Class",0
+NA,1967,"University, with degree","Pakeha","Immigrant","Not an immigrant","Daily","Just get by","Upper middle Class",0
+"Female",1985,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Weekly",NA,"Lower Middle Class",0
+"Male",1962,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1941,"Secondary school","European","Immigrant","Not an immigrant","Daily","Just get by",NA,NA
+"Male",1936,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Just get by",NA,1
+"Female",1984,"University, with degree","European","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Male",NA,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",1
+"Female",1930,"Secondary school","Pakeha","Immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Female",NA,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Lower Class",0
+"Female",1948,"University, with degree","Maori","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Upper middle Class",1
+"Male",1963,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Spent savings and borrowed money","Working Class",NA
+"Female",1935,"Secondary school","Pakeha","Immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",1938,"Some university, no degree","European",NA,"Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",1
+"Female",1935,"Secondary school",NA,"Not an immigrant","Not an immigrant","Less than weekly","Save money",NA,NA
+"Male",1953,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Male",1940,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Just get by","Lower Middle Class",1
+"Female",1945,NA,"Pakeha","Immigrant","Not an immigrant",NA,"Just get by","Working Class",0
+"Male",1981,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily",NA,"Upper middle Class",0
+"Male",NA,"Secondary school",NA,"Not an immigrant","Not an immigrant",NA,"Just get by",NA,0
+"Male",1950,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Working Class",0
+"Female",1984,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Male",1948,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+NA,1923,NA,"European","Not an immigrant","Not an immigrant",NA,"Save money",NA,0
+"Male",1970,NA,NA,"Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",0
+"Male",NA,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Working Class",0
+"Female",1941,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",0
+NA,1953,"Secondary school","European","Not an immigrant","Not an immigrant",NA,"Just get by","Working Class",0
+"Male",NA,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Upper middle Class",0
+"Female",1940,"University, with degree",NA,"Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Upper middle Class",0
+"Male",1974,"University, with degree","European","Not an immigrant","Not an immigrant","Less than weekly","Save money","Upper middle Class",0
+"Female",1936,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Less than weekly","Just get by","Lower Middle Class",1
+"Male",1956,"University, with degree","European","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",1
+"Female",NA,"Secondary school",NA,"Not an immigrant","Not an immigrant","Less than weekly","Just get by","Lower Middle Class",0
+"Male",1939,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",1945,"Secondary school","Pakeha","Not an immigrant","Not an immigrant",NA,"Just get by","Working Class",0
+"Female",1946,"Secondary school","Maori","Not an immigrant","Not an immigrant","Daily","Just get by",NA,0
+"Female",1935,"Secondary school","Pakeha","Not an immigrant",NA,"Daily","Just get by","Working Class",1
+"Female",1985,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Female",1929,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Save money","Working Class",1
+"Female",1988,"Secondary school","European","Immigrant","Immigrant","Less than weekly","Just get by","Working Class",NA
+"Male",1964,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Lower Middle Class",0
+"Male",1967,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Less than weekly","Just get by","Upper middle Class",0
+"Female",1966,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Male",1962,"Complete primary school",NA,"Not an immigrant","Not an immigrant",NA,"Save money","Working Class",0
+"Female",1942,NA,"European","Not an immigrant",NA,"Daily","Just get by","Lower Middle Class",0
+"Female",1946,"Secondary school",NA,"Not an immigrant",NA,"Daily",NA,"Lower Middle Class",0
+"Male",1978,"Secondary school","European","Not an immigrant","Not an immigrant",NA,"Spent some savings and borrowed money","Lower Middle Class",0
+"Female",1941,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money",NA,1
+"Female",1992,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Upper middle Class",0
+"Male",1983,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Save money","Working Class",0
+"Male",1952,NA,"European","Not an immigrant","Immigrant","Daily","Save money","Working Class",0
+"Female",1963,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",1926,NA,"European","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Male",1924,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Upper middle Class",0
+"Female",1971,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money",NA,0
+"Male",1958,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1943,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,NA,1
+"Female",1922,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,NA,0
+"Male",1953,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Lower Class",1
+NA,1967,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Spent some savings and borrowed money","Working Class",0
+"Female",NA,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Save money","Lower Middle Class",NA
+"Female",1943,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Male",1955,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by",NA,0
+"Male",1954,"Some university, no degree",NA,"Not an immigrant","Not an immigrant","Weekly","Just get by","Upper middle Class",0
+"Female",1961,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Save money",NA,NA
+"Female",1970,"No formal education",NA,"Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Female",1991,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Upper middle Class",0
+"Female",1979,"University, with degree","Pacific Islander","Immigrant","Immigrant","Daily","Spent savings and borrowed money","Upper middle Class",1
+NA,1958,"Secondary school","Pakeha","Not an immigrant","Not an immigrant",NA,"Spent savings and borrowed money","Working Class",NA
+NA,1989,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily",NA,"Lower Middle Class",1
+"Male",1935,"Secondary school","Maori","Not an immigrant","Not an immigrant","Weekly",NA,"Working Class",1
+"Male",1972,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Weekly","Save money","Working Class",0
+"Male",1964,"University, with degree","European","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Male",1962,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Male",1935,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",0
+"Male",1976,"Some university, no degree","Pacific Islander",NA,"Not an immigrant","Daily","Just get by","Working Class",1
+"Female",1964,"University, with degree","Pacific Islander","Immigrant","Immigrant","Weekly","Just get by","Working Class",1
+"Female",1980,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Working Class",0
+"Female",NA,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Weekly","Just get by","Lower Middle Class",0
+"Female",1940,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",0
+"Male",1956,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Female",1950,"Secondary school","Pakeha",NA,NA,NA,"Just get by","Working Class",NA
+"Female",1935,"Secondary school","Pakeha","Not an immigrant","Not an immigrant",NA,"Save money","Upper middle Class",1
+"Female",1972,"University, with degree","Maori",NA,"Not an immigrant","Daily","Just get by","Working Class",0
+"Female",1950,"Secondary school","New Zealander first, ethnic group second","Not an immigrant",NA,"Daily","Spent some savings and borrowed money",NA,0
+"Female",1953,NA,"New Zealander first, ethnic group second",NA,"Not an immigrant","Weekly","Just get by","Working Class",0
+"Male",1945,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Save money","Lower Middle Class",NA
+"Female",NA,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money",NA,0
+"Male",1992,"Secondary school","European","Not an immigrant","Not an immigrant","Less than weekly","Save money","Working Class",0
+"Male",1960,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly",NA,"Working Class",0
+"Female",1980,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Save money","Lower Middle Class",0
+NA,NA,"Secondary school","New Zealander first, ethnic group second",NA,"Not an immigrant",NA,"Save money","Lower Middle Class",0
+"Male",1929,NA,"Pakeha","Immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Female",1928,"University, with degree","Pakeha","Not an immigrant",NA,"Daily","Save money","Upper middle Class",0
+"Female",1979,"Some university, no degree","European",NA,"Not an immigrant","Weekly","Save money","Working Class",0
+"Male",1948,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Female",1988,"Secondary school","European","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Male",1981,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Working Class",NA
+"Male",1963,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Upper middle Class",0
+"Female",1944,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Immigrant",NA,"Spent some savings and borrowed money","Working Class",1
+"Male",1964,"Secondary school","Pakeha","Not an immigrant",NA,"Weekly","Save money","Upper middle Class",0
+"Male",1961,"Secondary school","Maori","Not an immigrant","Not an immigrant","Weekly","Save money","Working Class",1
+"Female",1947,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Female",1960,"University, with degree",NA,"Not an immigrant","Not an immigrant","Less than weekly","Just get by","Upper middle Class",0
+"Male",NA,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Not an immigrant","Weekly",NA,"Working Class",0
+"Male",1950,"Secondary school",NA,"Not an immigrant","Not an immigrant","Less than weekly","Save money","Lower Middle Class",0
+"Female",1957,"Secondary school","Pakeha","Not an immigrant",NA,"Weekly","Spent some savings and borrowed money","Upper middle Class",0
+"Male",1958,"Some university, no degree","European","Immigrant","Immigrant",NA,"Spent some savings and borrowed money","Lower Middle Class",0
+"Male",NA,"Secondary school","Pakeha",NA,"Not an immigrant","Daily","Just get by","Working Class",1
+"Male",1958,"Secondary school","Maori","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Female",1940,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,"Upper middle Class",0
+"Male",1922,"Secondary school",NA,NA,NA,"Daily",NA,NA,1
+"Male",NA,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Spent some savings and borrowed money","Upper middle Class",1
+"Male",1965,NA,"Pakeha","Not an immigrant","Not an immigrant","Weekly","Save money","Upper middle Class",0
+"Female",1972,NA,"Maori","Not an immigrant","Not an immigrant","Less than weekly","Spent savings and borrowed money","Working Class",1
+"Female",1953,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",1
+"Male",1947,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money",NA,0
+"Female",1946,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1985,"University, with degree","New Zealander first, ethnic group second","Immigrant","Not an immigrant","Less than weekly","Just get by","Lower Middle Class",1
+"Female",1942,"Secondary school","European","Not an immigrant","Not an immigrant","Daily",NA,"Working Class",0
+"Female",1945,"Secondary school","European",NA,"Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Female",1955,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by",NA,0
+"Female",1986,"Secondary school","New Zealander first, ethnic group second","Immigrant",NA,"Weekly","Just get by","Working Class",NA
+"Female",1985,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Lower Middle Class",1
+"Female",1960,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Spent some savings and borrowed money","Upper middle Class",0
+"Male",1961,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Female",1992,"Some university, no degree","European","Not an immigrant","Not an immigrant",NA,NA,"Lower Middle Class",1
+"Male",1953,"University, with degree","New Zealander first, ethnic group second","Not an immigrant",NA,"Daily","Save money","Upper middle Class",0
+"Male",1943,"Secondary school","Pakeha",NA,"Not an immigrant","Daily","Save money","Working Class",1
+"Male",1943,"Secondary school",NA,"Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",1
+NA,1961,"University, with degree","New Zealander first, ethnic group second",NA,NA,"Daily",NA,"Upper middle Class",0
+"Female",1975,"University, with degree",NA,"Immigrant","Immigrant","Weekly","Just get by","Lower Middle Class",0
+"Female",1958,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Upper middle Class",0
+"Male",1935,"No formal education","Maori","Not an immigrant","Not an immigrant","Weekly","Save money",NA,NA
+NA,1940,"Secondary school","New Zealander first, ethnic group second","Not an immigrant",NA,"Weekly","Save money","Upper middle Class",NA
+"Female",1959,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Weekly","Just get by","Upper middle Class",0
+"Female",1951,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Spent some savings and borrowed money","Working Class",0
+"Female",1973,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money",NA,1
+"Female",1955,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Upper middle Class",0
+"Male",1934,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Male",1944,"University, with degree","Pakeha","Not an immigrant","Immigrant","Daily","Save money","Lower Middle Class",0
+"Female",1963,"University, with degree",NA,"Not an immigrant","Not an immigrant","Weekly","Spent savings and borrowed money","Upper middle Class",1
+"Female",1965,"Some university, no degree","European","Not an immigrant",NA,"Less than weekly","Just get by","Lower Middle Class",0
+"Male",1962,NA,"New Zealander first, ethnic group second","Immigrant","Immigrant","Less than weekly","Save money","Lower Middle Class",0
+"Female",1966,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Weekly","Just get by","Lower Middle Class",0
+"Female",1954,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Female",NA,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Male",1932,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant",NA,"Save money","Lower Middle Class",0
+"Female",1991,"Secondary school",NA,"Immigrant","Immigrant","Less than weekly",NA,NA,0
+"Female",1987,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Daily","Just get by",NA,1
+"Female",1960,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Lower Middle Class",0
+NA,NA,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by",NA,0
+"Female",1973,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Lower Middle Class",0
+NA,1963,"Secondary school","Maori","Not an immigrant","Not an immigrant",NA,"Spent savings and borrowed money","Working Class",0
+"Female",1948,"Secondary school","Maori","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",0
+"Female",1959,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Upper middle Class",0
+NA,1949,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Male",1939,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Male",1938,"University, with degree",NA,"Not an immigrant",NA,"Daily","Save money","Lower Middle Class",0
+"Female",1971,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Save money","Upper middle Class",0
+"Male",1960,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Save money",NA,0
+"Female",1941,"University, with degree","European","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",NA
+"Female",1989,"Secondary school",NA,"Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",1
+"Female",1938,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant",NA,NA,"Lower Middle Class",0
+"Female",1963,NA,"Pakeha",NA,NA,"Daily","Spent savings and borrowed money",NA,0
+"Female",1962,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+NA,1946,"Secondary school","Pakeha","Not an immigrant","Immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Female",1963,"Some university, no degree",NA,"Not an immigrant","Not an immigrant","Weekly","Just get by","Working Class",0
+"Female",1969,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Save money",NA,0
+"Female",1946,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by",NA,0
+"Female",1967,"University, with degree","Pakeha",NA,"Not an immigrant","Weekly","Just get by","Working Class",0
+"Male",1977,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Spent some savings and borrowed money","Upper middle Class",0
+"Female",1971,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Female",1935,"Secondary school",NA,"Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Upper middle Class",0
+"Male",1961,"Secondary school","Maori","Not an immigrant","Immigrant","Daily","Just get by","Working Class",1
+"Female",1952,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money",NA,1
+"Female",1936,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily","Just get by","Working Class",0
+"Male",1970,"Some university, no degree",NA,"Not an immigrant","Not an immigrant","Less than weekly","Spent savings and borrowed money","Working Class",0
+"Female",1945,"Some university, no degree",NA,"Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",NA
+"Female",NA,"Secondary school",NA,"Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+NA,1941,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Working Class",1
+"Female",1937,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Female",1943,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Lower Middle Class",0
+"Male",1963,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by",NA,0
+"Female",1965,"University, with degree","Pakeha","Immigrant","Immigrant","Weekly",NA,"Upper middle Class",0
+"Male",1976,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Male",1949,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Female",NA,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Male",NA,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly",NA,"Upper middle Class",0
+"Female",1951,"Secondary school",NA,"Not an immigrant","Not an immigrant","Daily",NA,"Working Class",0
+NA,1973,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Weekly","Spent savings and borrowed money","Working Class",0
+"Male",1975,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly",NA,NA,NA
+"Male",1971,"Secondary school",NA,"Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Female",1976,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Save money","Lower Middle Class",0
+"Male",1971,"Secondary school","Maori","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",NA
+"Male",1974,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Working Class",NA
+"Female",1974,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,NA,1
+"Female",1958,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly",NA,"Working Class",1
+"Male",1966,"University, with degree","Asian","Immigrant","Immigrant","Weekly","Save money","Lower Middle Class",0
+"Female",1992,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Male",1950,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Female",NA,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Upper middle Class",0
+"Female",NA,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Male",1971,"Secondary school",NA,NA,"Not an immigrant","Less than weekly","Just get by","Working Class",0
+"Female",1961,"University, with degree","Maori","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",0
+"Female",1922,"Secondary school",NA,"Not an immigrant","Immigrant","Daily","Just get by","Working Class",0
+"Male",1964,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant",NA,"Spent savings and borrowed money","Lower Class",1
+"Male",1948,"Secondary school","European",NA,"Immigrant","Daily","Spent some savings and borrowed money","Working Class",1
+NA,1931,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by",NA,0
+"Female",1978,"Some university, no degree","Pakeha","Not an immigrant",NA,"Daily",NA,NA,1
+"Male",1972,"Secondary school","New Zealander first, ethnic group second",NA,"Not an immigrant","Daily","Spent savings and borrowed money",NA,0
+"Female",1968,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",NA
+"Male",1955,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Working Class",0
+"Female",1969,"Some university, no degree","Asian","Not an immigrant","Not an immigrant","Less than weekly",NA,"Upper middle Class",NA
+"Male",1983,"Secondary school","European",NA,"Not an immigrant","Less than weekly","Spent savings and borrowed money","Upper middle Class",1
+"Male",NA,NA,"European","Not an immigrant",NA,"Daily","Just get by","Lower Class",1
+"Female",1977,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Lower Class",1
+"Male",1970,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Weekly","Save money","Upper middle Class",0
+"Female",NA,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Male",1939,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Male",1963,"Secondary school","Pacific Islander","Immigrant","Immigrant","Daily","Just get by",NA,1
+"Female",NA,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,NA,"Working Class",NA
+"Male",1979,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Just get by","Working Class",1
+"Male",1972,"University, with degree","Pakeha","Immigrant","Not an immigrant","Weekly","Spent savings and borrowed money","Lower Middle Class",0
+"Male",1955,"University, with degree","European","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Lower Middle Class",1
+NA,1960,"Secondary school","New Zealander first, ethnic group second",NA,"Not an immigrant","Less than weekly","Save money","Upper middle Class",0
+"Male",1936,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Male",1938,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Male",1955,NA,"New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily","Save money","Upper middle Class",0
+"Male",1950,"University, with degree","Pakeha","Not an immigrant","Not an immigrant",NA,"Spent some savings and borrowed money",NA,0
+"Male",1964,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money",NA,1
+"Female",1962,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Weekly","Spent savings and borrowed money",NA,0
+"Female",1950,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Upper middle Class",0
+"Male",1983,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Weekly","Just get by","Upper middle Class",0
+"Female",1947,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily","Save money","Lower Middle Class",0
+"Female",1941,"Some university, no degree","Pakeha","Immigrant",NA,NA,"Spent some savings and borrowed money","Working Class",0
+"Male",1962,"University, with degree","Pakeha","Immigrant","Immigrant","Daily","Save money","Upper middle Class",0
+"Male",1960,"Some university, no degree",NA,"Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Male",1987,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,"Working Class",1
+"Female",1936,"Secondary school","New Zealander first, ethnic group second",NA,"Immigrant",NA,"Just get by","Working Class",0
+"Male",1956,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Save money","Upper middle Class",0
+NA,1937,"University, with degree","New Zealander first, ethnic group second","Immigrant","Not an immigrant",NA,"Spent some savings and borrowed money","Upper middle Class",NA
+NA,NA,"Some university, no degree","Pacific Islander","Immigrant","Immigrant","Daily",NA,"Working Class",1
+"Female",NA,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Male",1989,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Weekly","Just get by","Working Class",0
+"Male",1941,"Secondary school",NA,"Immigrant","Immigrant","Daily",NA,NA,NA
+"Female",1956,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+NA,NA,NA,"New Zealander first, ethnic group second","Immigrant","Not an immigrant",NA,"Save money","Lower Middle Class",0
+"Male",1965,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Less than weekly","Spent savings and borrowed money",NA,0
+"Female",1963,"Secondary school","New Zealander first, ethnic group second",NA,"Not an immigrant","Daily",NA,"Upper middle Class",0
+"Male",1968,"Secondary school",NA,"Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Lower Middle Class",0
+"Female",1943,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Save money","Lower Middle Class",0
+"Male",1958,"Secondary school","Pakeha",NA,"Not an immigrant","Less than weekly","Just get by","Working Class",0
+NA,1977,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,NA,"Upper middle Class",0
+"Male",1978,"Secondary school","New Zealander first, ethnic group second",NA,"Not an immigrant","Daily","Save money","Upper middle Class",0
+NA,1925,"Complete primary school","European","Not an immigrant","Not an immigrant",NA,"Save money","Working Class",0
+"Male",1962,"Some university, no degree","Asian","Not an immigrant","Not an immigrant","Weekly","Just get by",NA,0
+"Female",1976,"Secondary school",NA,"Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",1
+"Female",1931,"Secondary school","Pakeha","Not an immigrant",NA,"Daily",NA,NA,0
+"Male",1932,"Secondary school","Pakeha",NA,"Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Male",1971,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent savings and borrowed money","Working Class",0
+"Female",1956,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Less than weekly","Save money","Lower Middle Class",0
+"Female",1970,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Less than weekly","Spent savings and borrowed money","Upper middle Class",0
+NA,1982,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Not an immigrant","Daily","Save money","Working Class",NA
+"Female",NA,"No formal education","Asian","Immigrant","Immigrant","Daily","Save money","Working Class",1
+"Female",1945,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Less than weekly","Spent some savings and borrowed money",NA,0
+"Female",1967,"No formal education","Pacific Islander","Immigrant","Immigrant","Daily","Spent savings and borrowed money","Working Class",1
+NA,1952,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Save money","Upper middle Class",0
+"Female",1965,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+NA,1954,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily","Save money","Lower Middle Class",0
+NA,1969,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Less than weekly","Just get by","Working Class",0
+"Male",1940,"Secondary school","European","Not an immigrant","Not an immigrant","Daily",NA,NA,0
+"Male",1948,"Secondary school","New Zealander first, ethnic group second",NA,"Not an immigrant","Weekly","Save money","Working Class",0
+"Male",NA,"University, with degree","New Zealander first, ethnic group second","Immigrant",NA,"Weekly","Just get by","Upper middle Class",0
+"Female",1976,"Secondary school",NA,NA,"Not an immigrant","Less than weekly","Save money","Upper middle Class",0
+"Male",NA,"University, with degree","European","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Female",1981,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Not an immigrant","Less than weekly","Just get by",NA,0
+"Male",1939,NA,"Pakeha","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money",NA,0
+"Female",1989,"Some university, no degree","New Zealander first, ethnic group second","Immigrant",NA,"Less than weekly","Save money","Working Class",0
+"Female",1962,"University, with degree","European","Not an immigrant","Immigrant","Daily","Spent some savings and borrowed money","Upper middle Class",0
+"Female",1953,NA,"Maori",NA,"Not an immigrant","Daily","Save money","Working Class",1
+"Male",1951,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly",NA,NA,1
+"Male",1989,"Some university, no degree","Asian","Not an immigrant","Not an immigrant","Less than weekly","Spent savings and borrowed money",NA,1
+"Female",1966,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Upper middle Class",1
+"Female",1964,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Just get by",NA,1
+NA,1992,"University, with degree","Asian","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",NA
+"Male",1969,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Just get by","Lower Middle Class",1
+"Male",1964,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Save money","Lower Middle Class",0
+"Male",1933,"Some university, no degree",NA,"Not an immigrant","Not an immigrant","Weekly","Save money",NA,0
+"Male",1925,"Complete primary school","Pakeha","Not an immigrant","Immigrant",NA,NA,"Working Class",1
+"Female",1961,"University, with degree","Asian","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Male",1966,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Working Class",NA
+"Female",1965,"Secondary school","Pacific Islander","Not an immigrant","Not an immigrant","Weekly","Save money","Working Class",1
+"Female",1973,"Complete primary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Weekly","Spent savings and borrowed money","Lower Class",0
+"Male",1927,"Complete primary school","Maori","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1949,"University, with degree","New Zealander first, ethnic group second","Not an immigrant",NA,"Weekly","Save money","Lower Middle Class",0
+"Male",1933,"Secondary school","Pakeha","Not an immigrant",NA,"Daily","Just get by","Upper middle Class",1
+"Female",1967,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",1
+"Female",1958,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Less than weekly",NA,"Lower Middle Class",0
+"Male",1942,"Secondary school","European","Not an immigrant","Immigrant",NA,NA,"Lower Class",0
+"Male",1964,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",1
+"Female",1947,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant",NA,"Less than weekly","Spent some savings and borrowed money","Lower Middle Class",1
+"Female",1943,NA,"New Zealander first, ethnic group second",NA,"Immigrant","Weekly","Spent some savings and borrowed money","Upper middle Class",0
+"Male",1972,"Some university, no degree",NA,"Not an immigrant","Immigrant","Daily","Just get by","Working Class",0
+"Male",1940,"Some university, no degree","Pakeha","Immigrant","Not an immigrant",NA,"Just get by","Lower Middle Class",0
+"Female",1974,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Weekly",NA,"Working Class",0
+"Female",1944,"Secondary school","Pakeha","Not an immigrant","Immigrant","Weekly","Just get by","Working Class",0
+"Female",1973,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Upper middle Class",0
+"Female",1959,"No formal education",NA,"Not an immigrant","Not an immigrant","Less than weekly","Just get by","Lower Class",1
+"Male",1940,"Secondary school","New Zealander first, ethnic group second",NA,"Not an immigrant","Daily","Save money","Upper middle Class",0
+NA,1945,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money",NA,0
+"Female",1948,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money",NA,1
+"Female",1933,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",NA
+"Female",1952,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Spent some savings and borrowed money",NA,NA
+"Female",1930,"Complete primary school",NA,"Not an immigrant","Not an immigrant","Daily",NA,"Working Class",NA
+"Female",1988,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Weekly","Save money",NA,NA
+"Male",1977,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Weekly","Save money","Working Class",0
+"Male",1964,"Some university, no degree",NA,NA,"Not an immigrant","Daily",NA,NA,0
+"Female",1968,"University, with degree",NA,NA,"Immigrant","Daily",NA,"Lower Middle Class",1
+"Female",1966,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Female",NA,NA,NA,"Immigrant","Immigrant","Daily","Just get by",NA,0
+"Female",1981,NA,"Asian","Not an immigrant","Not an immigrant","Daily",NA,"Upper middle Class",1
+"Female",1955,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Female",1945,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Male",1947,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Working Class",0
+"Male",1934,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Working Class",1
+"Male",1987,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Lower Middle Class",0
+"Female",1951,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Just get by",NA,1
+"Male",1969,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Spent some savings and borrowed money",NA,0
+"Male",1984,"Some university, no degree","Pacific Islander","Immigrant","Immigrant","Weekly","Save money","Working Class",1
+"Male",1947,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly",NA,"Upper middle Class",0
+"Male",NA,"Secondary school","Asian","Immigrant","Immigrant","Weekly","Save money","Upper middle Class",NA
+"Male",1983,"No formal education","Maori","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Class",0
+"Female",1976,"University, with degree","European","Immigrant","Not an immigrant","Less than weekly","Save money",NA,0
+"Male",1967,"Some university, no degree",NA,"Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+"Female",1983,"University, with degree","New Zealander first, ethnic group second",NA,"Not an immigrant","Daily","Save money","Upper middle Class",0
+"Female",1945,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",1931,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Male",1951,"Secondary school",NA,"Not an immigrant","Not an immigrant","Weekly","Save money","Working Class",1
+NA,1975,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money",NA,0
+"Male",1970,"University, with degree","European","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Male",1941,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Working Class",1
+NA,1967,"Secondary school",NA,"Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",1
+"Male",1984,"University, with degree","New Zealander first, ethnic group second",NA,"Not an immigrant","Daily",NA,"Lower Middle Class",0
+"Male",1992,"Secondary school","New Zealander first, ethnic group second","Immigrant","Not an immigrant","Less than weekly","Just get by","Lower Middle Class",1
+NA,1966,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",NA
+"Male",NA,NA,NA,NA,NA,"Daily",NA,NA,0
+"Female",1973,"Secondary school","Pacific Islander","Immigrant","Immigrant","Daily",NA,"Upper middle Class",1
+NA,1969,"University, with degree","New Zealander first, ethnic group second",NA,"Not an immigrant","Daily","Save money","Upper middle Class",0
+"Female",1967,"Some university, no degree","Asian","Not an immigrant","Not an immigrant","Less than weekly","Save money","Upper middle Class",0
+"Female",1921,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",1945,"University, with degree","European","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Male",1941,"Some university, no degree","European","Not an immigrant","Not an immigrant","Weekly","Spent savings and borrowed money","Lower Middle Class",0
+"Female",1955,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Just get by",NA,0
+"Female",1970,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+"Female",1962,"Complete primary school","Pacific Islander","Immigrant","Immigrant","Daily",NA,NA,1
+"Female",1975,"University, with degree","Asian","Immigrant","Immigrant","Less than weekly","Just get by","Working Class",1
+"Male",1947,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,"Working Class",1
+"Male",1954,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant",NA,"Less than weekly","Just get by",NA,0
+"Male",1958,"Secondary school","European","Immigrant","Not an immigrant","Less than weekly","Just get by","Lower Middle Class",1
+"Male",NA,"Some university, no degree","European","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Female",1956,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",1
+"Female",1937,"Secondary school","New Zealander first, ethnic group second","Not an immigrant",NA,"Daily","Just get by",NA,0
+"Female",1949,"University, with degree","European","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",1
+"Female",1969,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Female",1978,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Just get by",NA,1
+NA,1959,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by",NA,0
+"Female",1954,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Weekly","Save money","Upper middle Class",1
+"Male",1942,NA,"European","Not an immigrant","Not an immigrant",NA,"Save money","Upper middle Class",0
+"Male",1979,"University, with degree","European","Not an immigrant",NA,NA,"Save money","Lower Middle Class",0
+"Male",1936,NA,"Pakeha","Not an immigrant","Not an immigrant",NA,"Spent some savings and borrowed money","Working Class",0
+"Male",1933,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+"Female",1951,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money",NA,NA
+"Female",1964,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Save money","Working Class",0
+"Male",1966,"University, with degree","European","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Lower Middle Class",0
+NA,1967,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Spent some savings and borrowed money","Working Class",0
+"Male",1969,"University, with degree","New Zealander first, ethnic group second","Immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Female",1946,"Secondary school","Pakeha","Not an immigrant",NA,NA,"Spent some savings and borrowed money","Working Class",0
+"Male",1957,"Secondary school","New Zealander first, ethnic group second",NA,"Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Male",1953,NA,"Maori","Not an immigrant","Not an immigrant","Weekly","Just get by","Working Class",1
+"Male",1934,"Secondary school","European","Immigrant","Immigrant","Daily","Save money","Upper middle Class",0
+"Male",1968,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Weekly","Just get by","Working Class",0
+"Male",1949,"Secondary school","European","Not an immigrant","Not an immigrant","Daily",NA,"Working Class",0
+"Female",1960,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money",NA,1
+"Male",NA,"University, with degree","European","Not an immigrant","Not an immigrant","Weekly","Just get by","Upper middle Class",0
+"Female",1957,"University, with degree","Pakeha","Immigrant","Immigrant","Weekly","Save money","Upper middle Class",0
+"Male",NA,"Secondary school","Pakeha","Not an immigrant","Not an immigrant",NA,"Save money","Working Class",0
+"Female",1959,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily","Just get by","Upper middle Class",NA
+"Male",1942,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",1
+"Male",1940,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Save money","Upper middle Class",0
+"Female",1993,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Female",1970,"Some university, no degree","Pacific Islander",NA,"Not an immigrant","Less than weekly",NA,NA,1
+"Female",1960,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Working Class",0
+"Female",1964,"University, with degree",NA,NA,"Not an immigrant","Daily","Spent some savings and borrowed money",NA,0
+"Female",1980,"University, with degree","European","Not an immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Upper middle Class",0
+"Female",1937,"Complete primary school","Pakeha","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",1
+"Female",1992,"Secondary school",NA,"Not an immigrant","Not an immigrant","Less than weekly","Just get by","Working Class",0
+"Male",1941,"University, with degree","European","Immigrant","Not an immigrant","Daily","Save money","Upper Class",0
+NA,1970,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Working Class",1
+"Male",1983,"Secondary school","European",NA,NA,"Weekly","Save money","Upper middle Class",0
+"Female",1964,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",1
+"Female",1964,"University, with degree","Maori","Not an immigrant","Not an immigrant","Less than weekly","Spent savings and borrowed money","Working Class",0
+"Female",1977,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Male",1938,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Female",1929,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Upper middle Class",0
+"Male",1988,"University, with degree","Asian","Immigrant",NA,"Less than weekly",NA,"Upper middle Class",0
+"Male",NA,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by",NA,0
+"Female",1964,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Just get by",NA,1
+"Female",1993,"Secondary school","Pakeha","Not an immigrant","Not an immigrant",NA,NA,NA,1
+"Male",1944,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Upper middle Class",0
+NA,1951,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,NA,0
+"Female",1973,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+"Male",NA,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,"Working Class",1
+"Female",1968,"University, with degree","European","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money",NA,0
+"Male",1963,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Weekly","Just get by","Lower Middle Class",0
+"Female",1962,NA,"Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Save money","Upper middle Class",0
+"Male",1956,"Secondary school",NA,"Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",NA
+"Male",1947,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,NA,"Lower Middle Class",0
+"Female",1960,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant",NA,"Spent some savings and borrowed money",NA,0
+"Female",1975,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Save money","Upper middle Class",0
+"Male",1946,"Some university, no degree","Maori","Not an immigrant","Not an immigrant",NA,NA,NA,0
+"Male",1950,"Secondary school","Maori","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",0
+"Female",1978,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Working Class",0
+"Male",1986,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Weekly","Just get by","Upper middle Class",1
+"Female",1992,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Less than weekly","Save money","Lower Middle Class",1
+"Female",1966,"University, with degree",NA,NA,"Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1982,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Weekly","Spent savings and borrowed money","Lower Middle Class",1
+"Female",1984,"Secondary school",NA,"Not an immigrant",NA,"Weekly","Spent savings and borrowed money","Working Class",1
+"Female",1985,NA,"Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",NA,"Secondary school",NA,"Immigrant","Immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+"Female",1981,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",1
+"Male",1965,"Secondary school","Pakeha","Immigrant",NA,"Weekly",NA,"Lower Middle Class",0
+"Male",1945,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+NA,1949,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Female",1978,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+NA,1958,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Save money","Upper middle Class",0
+"Female",1948,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",1
+NA,1982,NA,"New Zealander first, ethnic group second","Immigrant","Immigrant",NA,"Save money","Lower Middle Class",1
+NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"Female",1978,NA,NA,NA,"Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Male",1965,"Secondary school","New Zealander first, ethnic group second","Not an immigrant",NA,"Weekly","Save money",NA,0
+"Female",1952,"Secondary school","Pakeha","Not an immigrant","Immigrant",NA,"Spent some savings and borrowed money","Working Class",0
+"Male",NA,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",NA
+"Female",1968,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Save money","Working Class",0
+"Male",1969,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Save money","Working Class",0
+"Male",1976,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",0
+"Male",1954,NA,NA,"Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",1
+"Female",1958,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant",NA,"Spent some savings and borrowed money","Lower Middle Class",0
+"Male",1976,NA,"European","Not an immigrant","Immigrant","Less than weekly","Just get by","Working Class",0
+"Male",1928,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Male",1984,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Weekly",NA,"Upper middle Class",1
+"Male",1953,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily","Save money","Upper middle Class",0
+"Male",1944,NA,NA,"Not an immigrant","Not an immigrant","Less than weekly","Just get by","Working Class",0
+"Female",1931,"Secondary school","Pakeha","Not an immigrant","Immigrant","Daily","Save money","Upper middle Class",0
+"Male",1965,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",0
+"Female",1970,NA,"Maori","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1983,"University, with degree","European","Not an immigrant","Not an immigrant","Less than weekly","Spent savings and borrowed money",NA,NA
+"Female",1959,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Female",1977,"Secondary school","New Zealander first, ethnic group second",NA,"Not an immigrant","Weekly","Save money","Upper middle Class",0
+"Female",1984,"Some university, no degree","Pacific Islander","Immigrant","Immigrant","Daily","Just get by","Working Class",1
+"Female",1962,"Some university, no degree","European",NA,"Not an immigrant","Less than weekly","Save money","Lower Middle Class",0
+"Female",1960,"Secondary school","Maori","Not an immigrant",NA,"Daily",NA,"Working Class",0
+"Female",1959,"University, with degree",NA,NA,"Immigrant",NA,"Save money","Working Class",NA
+"Male",1976,"Secondary school",NA,"Not an immigrant","Not an immigrant","Weekly","Just get by","Working Class",1
+"Male",1958,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by",NA,0
+"Female",1943,"Secondary school","New Zealander first, ethnic group second","Not an immigrant",NA,"Less than weekly","Save money",NA,0
+"Male",1958,"University, with degree","New Zealander first, ethnic group second",NA,"Not an immigrant","Daily","Save money","Upper middle Class",1
+"Male",1950,"University, with degree","New Zealander first, ethnic group second","Immigrant",NA,"Weekly","Save money","Lower Middle Class",0
+"Female",1974,"University, with degree","European","Not an immigrant","Not an immigrant","Weekly","Save money","Upper middle Class",1
+"Male",1972,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Save money","Upper middle Class",0
+"Female",1959,"University, with degree","New Zealander first, ethnic group second","Immigrant",NA,NA,"Save money","Working Class",0
+"Female",1971,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily",NA,"Upper middle Class",0
+"Male",1980,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Upper middle Class",0
+"Male",NA,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Save money","Upper middle Class",0
+"Male",1971,"Some university, no degree",NA,"Not an immigrant","Immigrant",NA,"Spent some savings and borrowed money","Lower Middle Class",0
+NA,1938,"Secondary school","New Zealander first, ethnic group second","Immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Upper middle Class",0
+"Female",NA,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Working Class",0
+"Male",1982,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Not an immigrant","Less than weekly","Just get by","Lower Class",1
+"Female",1954,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Save money","Upper middle Class",0
+"Male",1936,"Secondary school",NA,"Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Working Class",1
+"Male",1991,"Some university, no degree","Pacific Islander","Immigrant","Immigrant","Weekly","Spent some savings and borrowed money",NA,1
+"Male",1946,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Female",1974,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Upper middle Class",NA
+"Female",1980,"No formal education",NA,"Immigrant","Immigrant","Daily","Spent savings and borrowed money",NA,0
+"Male",1982,"University, with degree","Asian","Not an immigrant","Not an immigrant","Daily","Save money",NA,1
+"Male",NA,"Secondary school","Maori","Not an immigrant","Not an immigrant","Daily","Save money",NA,0
+"Male",1968,"No formal education","Pacific Islander","Not an immigrant","Not an immigrant","Less than weekly",NA,NA,1
+"Female",1944,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Upper middle Class",0
+"Male",1940,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1963,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily",NA,"Lower Middle Class",0
+"Male",1967,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",1
+"Male",1964,"Secondary school","Pacific Islander","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Female",1926,NA,"Pakeha","Not an immigrant","Not an immigrant","Daily",NA,NA,0
+"Male",1967,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Less than weekly","Spent some savings and borrowed money","Lower Middle Class",NA
+"Male",1956,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Class",1
+NA,NA,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Spent savings and borrowed money","Working Class",0
+"Female",1951,"Secondary school","European","Immigrant","Immigrant","Daily","Save money","Working Class",0
+"Male",1949,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Working Class",0
+"Female",1937,NA,"Maori","Not an immigrant","Not an immigrant",NA,"Just get by","Working Class",0
+"Female",1966,"Secondary school","Maori","Not an immigrant",NA,"Daily","Spent savings and borrowed money",NA,1
+"Male",1954,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Weekly","Just get by","Working Class",0
+"Female",1971,"University, with degree","European",NA,"Not an immigrant","Weekly","Spent some savings and borrowed money","Lower Middle Class",0
+"Male",1956,"University, with degree","New Zealander first, ethnic group second","Not an immigrant",NA,"Less than weekly","Spent savings and borrowed money","Lower Middle Class",0
+NA,1963,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Upper middle Class",0
+"Female",1974,"Secondary school","New Zealander first, ethnic group second",NA,NA,"Weekly","Just get by","Working Class",0
+"Male",1936,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Working Class",0
+"Female",1959,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money",NA,NA
+"Female",1938,"Secondary school",NA,"Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money",NA,0
+"Female",1991,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant",NA,"Spent some savings and borrowed money","Working Class",1
+"Male",NA,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Upper middle Class",0
+"Female",1959,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",0
+"Female",1987,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Less than weekly",NA,NA,0
+"Male",NA,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Male",NA,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Lower Middle Class",0
+"Female",1987,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Working Class",1
+"Female",1940,"Secondary school",NA,"Not an immigrant","Not an immigrant",NA,NA,"Lower Middle Class",NA
+"Female",1961,NA,"Pakeha","Not an immigrant","Not an immigrant","Weekly",NA,"Working Class",NA
+"Female",1952,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",1
+"Female",1950,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",0
+NA,1954,NA,"New Zealander first, ethnic group second",NA,"Not an immigrant","Weekly",NA,NA,0
+"Male",1992,"Secondary school","Pacific Islander","Not an immigrant","Not an immigrant","Daily","Save money",NA,1
+"Male",1958,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Lower Middle Class",1
+"Female",NA,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Weekly","Just get by","Lower Class",0
+"Female",1960,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,"Upper middle Class",0
+"Male",NA,"University, with degree","Pakeha",NA,"Not an immigrant","Daily","Just get by","Upper middle Class",0
+"Female",1972,"University, with degree","Maori","Not an immigrant",NA,"Daily","Spent savings and borrowed money","Working Class",0
+"Female",1953,"Secondary school","Pacific Islander","Not an immigrant",NA,"Daily","Just get by","Working Class",0
+"Female",1938,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly",NA,NA,1
+"Female",1959,"Secondary school","Maori","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Working Class",0
+"Female",1988,"University, with degree","Pakeha","Not an immigrant",NA,"Less than weekly","Save money","Working Class",0
+"Female",1967,"University, with degree",NA,"Not an immigrant","Not an immigrant","Less than weekly","Save money","Upper middle Class",1
+"Female",1939,"University, with degree","New Zealander first, ethnic group second","Not an immigrant",NA,"Daily",NA,NA,0
+"Female",1959,"University, with degree",NA,"Not an immigrant","Not an immigrant","Daily","Save money",NA,NA
+"Female",1987,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Female",1958,"University, with degree","Maori","Not an immigrant","Not an immigrant","Weekly","Just get by","Working Class",0
+"Male",1945,NA,"Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Lower Class",0
+"Male",NA,"No formal education","Pakeha","Immigrant","Immigrant","Weekly",NA,NA,0
+"Female",1943,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",0
+"Female",1956,"Secondary school",NA,"Not an immigrant","Not an immigrant","Weekly","Just get by","Lower Middle Class",0
+"Male",1959,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Save money","Upper middle Class",NA
+"Male",1978,"Some university, no degree","European","Not an immigrant","Immigrant","Daily","Spent savings and borrowed money","Upper middle Class",0
+"Male",1954,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Female",1943,"University, with degree",NA,"Immigrant","Immigrant","Less than weekly","Save money","Working Class",0
+"Female",1957,"Secondary school","Maori","Not an immigrant",NA,NA,"Spent some savings and borrowed money","Lower Middle Class",1
+"Male",1936,"Secondary school",NA,NA,NA,"Daily",NA,NA,0
+"Male",1972,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly",NA,"Working Class",0
+"Female",1936,"Secondary school","Pakeha","Not an immigrant","Not an immigrant",NA,NA,"Upper middle Class",0
+NA,1938,"Secondary school",NA,"Not an immigrant","Not an immigrant","Weekly","Just get by","Working Class",1
+"Female",1955,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Daily",NA,"Upper middle Class",0
+"Male",1962,"Secondary school","Pakeha",NA,"Not an immigrant","Daily","Just get by",NA,0
+"Male",1947,NA,NA,"Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",1
+"Female",1993,"Some university, no degree","Maori","Not an immigrant",NA,"Less than weekly","Save money","Lower Class",1
+"Male",1949,"Secondary school",NA,"Not an immigrant","Not an immigrant",NA,"Save money","Working Class",0
+"Female",1974,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Lower Middle Class",0
+"Male",1946,NA,"Pakeha","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Working Class",0
+"Female",1972,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent savings and borrowed money","Upper middle Class",0
+"Male",1950,"Secondary school",NA,"Not an immigrant","Not an immigrant",NA,"Save money","Lower Middle Class",0
+"Male",1933,"Some university, no degree",NA,"Not an immigrant","Not an immigrant","Weekly",NA,"Lower Middle Class",0
+"Male",NA,"Secondary school","Maori",NA,"Not an immigrant","Weekly","Just get by","Working Class",0
+"Female",1936,"Secondary school","New Zealander first, ethnic group second","Immigrant","Immigrant","Daily",NA,NA,NA
+"Female",1949,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Lower Middle Class",NA
+"Female",1949,NA,"Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",0
+"Female",1938,"Secondary school","Pakeha",NA,"Not an immigrant","Daily","Just get by","Working Class",NA
+"Female",1982,NA,"Pakeha","Not an immigrant",NA,"Weekly","Just get by","Lower Class",1
+"Female",1968,NA,"New Zealander first, ethnic group second","Immigrant","Not an immigrant","Less than weekly","Spent savings and borrowed money","Upper middle Class",0
+"Female",1957,NA,"Pacific Islander",NA,"Not an immigrant","Daily","Just get by","Lower Class",1
+"Male",NA,"Complete primary school","Maori","Not an immigrant","Not an immigrant","Daily","Just get by",NA,1
+"Female",1983,"Secondary school","Maori","Not an immigrant","Not an immigrant","Less than weekly","Spent savings and borrowed money","Working Class",0
+"Male",1985,"Some university, no degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Weekly",NA,NA,1
+"Female",1979,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Weekly","Save money","Lower Middle Class",0
+"Female",NA,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant",NA,"Daily","Save money","Lower Middle Class",0
+"Female",1955,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",NA
+"Female",1950,"No formal education","European","Not an immigrant","Not an immigrant",NA,"Spent some savings and borrowed money",NA,0
+"Female",1935,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Male",1960,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Lower Middle Class",0
+"Male",NA,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly",NA,"Working Class",0
+"Female",1956,"University, with degree","Asian","Not an immigrant",NA,"Less than weekly","Spent some savings and borrowed money",NA,1
+NA,1962,"Some university, no degree","Pakeha","Not an immigrant","Immigrant","Daily","Just get by","Working Class",NA
+"Female",1965,NA,"Maori","Not an immigrant",NA,"Daily","Just get by","Lower Middle Class",0
+"Female",1931,"Secondary school",NA,"Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",1
+"Male",1978,"University, with degree","Maori","Not an immigrant","Not an immigrant","Weekly","Just get by","Working Class",1
+"Female",1955,"University, with degree","New Zealander first, ethnic group second","Immigrant","Immigrant","Weekly","Spent savings and borrowed money","Upper middle Class",NA
+"Male",1956,"University, with degree","European","Not an immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1963,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Save money","Upper middle Class",0
+"Female",1965,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Lower Middle Class",NA
+"Female",1992,"Secondary school","Pakeha","Not an immigrant","Not an immigrant",NA,"Save money","Working Class",0
+"Female",1954,"University, with degree","European","Not an immigrant","Not an immigrant","Less than weekly","Just get by",NA,0
+NA,1973,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+NA,NA,"University, with degree",NA,"Immigrant","Not an immigrant","Daily","Just get by","Lower Middle Class",0
+"Female",1971,"University, with degree",NA,"Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Female",NA,"Some university, no degree","Pakeha","Immigrant",NA,"Daily","Save money",NA,0
+"Female",1934,"University, with degree",NA,"Immigrant",NA,"Daily","Spent some savings and borrowed money",NA,1
+"Male",1972,NA,"European","Immigrant","Immigrant",NA,"Save money","Lower Middle Class",0
+"Female",NA,"Some university, no degree","New Zealander first, ethnic group second",NA,"Not an immigrant","Less than weekly","Spent some savings and borrowed money",NA,0
+"Male",1957,"University, with degree","Maori",NA,"Not an immigrant","Daily","Save money","Working Class",0
+"Female",1975,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly",NA,"Upper middle Class",0
+"Female",1941,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Upper middle Class",0
+"Female",1969,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Just get by","Lower Middle Class",0
+"Female",1958,NA,"New Zealander first, ethnic group second","Immigrant","Immigrant","Daily","Just get by","Working Class",0
+"Male",1962,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Female",1974,"Some university, no degree","European","Not an immigrant","Immigrant",NA,"Spent savings and borrowed money",NA,1
+"Female",1990,"Secondary school",NA,"Not an immigrant","Not an immigrant","Weekly","Just get by","Working Class",NA
+"Female",1962,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily",NA,"Lower Middle Class",0
+"Male",1967,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Upper middle Class",0
+"Female",1983,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly",NA,NA,0
+"Male",1968,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Save money","Working Class",0
+"Female",1950,"Secondary school","Maori","Not an immigrant","Immigrant","Weekly","Spent some savings and borrowed money","Working Class",1
+"Female",1954,"Secondary school","Pacific Islander","Immigrant",NA,"Daily","Save money",NA,1
+"Male",1960,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Daily","Save money","Upper middle Class",0
+NA,1947,NA,"Pakeha","Not an immigrant","Not an immigrant","Daily","Save money","Upper middle Class",1
+"Male",1948,NA,"New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Lower Middle Class",NA
+"Male",1976,"Some university, no degree","Maori","Not an immigrant","Not an immigrant","Weekly","Just get by","Lower Middle Class",0
+"Male",1980,"University, with degree","Asian","Immigrant",NA,"Less than weekly","Save money","Working Class",0
+"Female",1956,"University, with degree",NA,"Not an immigrant","Not an immigrant",NA,"Save money",NA,0
+"Female",NA,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Spent savings and borrowed money","Lower Middle Class",0
+"Female",1981,"Some university, no degree","European","Not an immigrant","Not an immigrant","Daily","Just get by","Working Class",0
+"Male",1953,"Secondary school","European","Not an immigrant","Not an immigrant","Daily","Spent some savings and borrowed money","Upper middle Class",0
+"Female",1966,NA,NA,"Not an immigrant","Not an immigrant","Weekly","Save money","Working Class",0
+"Male",1973,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Spent some savings and borrowed money","Lower Middle Class",0
+"Male",1943,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Daily","Just get by","Upper middle Class",0
+NA,1950,"University, with degree",NA,NA,"Not an immigrant","Weekly","Spent some savings and borrowed money",NA,0
+"Female",1934,NA,"Pakeha","Not an immigrant","Not an immigrant",NA,"Save money","Working Class",1
+"Male",1959,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant",NA,"Save money","Upper middle Class",0
+"Female",NA,NA,NA,"Immigrant","Not an immigrant","Daily","Spent savings and borrowed money","Lower Middle Class",0
+"Female",1976,"University, with degree","Maori","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Working Class",0
+"Female",1990,"University, with degree","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Lower Middle Class",0
+"Female",1948,NA,NA,"Not an immigrant","Not an immigrant","Weekly",NA,"Working Class",0
+"Female",1988,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Less than weekly",NA,"Lower Middle Class",0
+"Male",1951,"Some university, no degree",NA,"Not an immigrant",NA,"Daily","Save money","Upper middle Class",0
+"Female",1980,"University, with degree","Maori","Not an immigrant","Immigrant","Weekly","Spent savings and borrowed money","Working Class",0
+"Female",1982,"University, with degree","New Zealander first, ethnic group second","Not an immigrant","Immigrant","Less than weekly","Just get by","Lower Middle Class",0
+"Male",1990,"Some university, no degree","Pakeha","Not an immigrant","Not an immigrant","Weekly","Spent savings and borrowed money","Lower Middle Class",0
+"Male",1993,"Secondary school","Pakeha","Not an immigrant","Not an immigrant","Less than weekly","Just get by","Lower Middle Class",NA
+"Female",1940,"Secondary school","New Zealander first, ethnic group second","Not an immigrant","Not an immigrant","Weekly","Spent some savings and borrowed money","Working Class",0
+"Female",1972,"Some university, no degree","New Zealander first, ethnic group second","Not an immigrant",NA,"Weekly","Spent savings and borrowed money","Upper middle Class",1
+"Female",1962,"Some university, no degree","European","Not an immigrant","Not an immigrant","Less than weekly",NA,"Working Class",0
+"Male",1991,"Secondary school","New Zealander first, ethnic group second","Not an immigrant",NA,"Weekly","Save money","Upper middle Class",0
